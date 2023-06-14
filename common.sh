@@ -15,6 +15,7 @@ shift 6
 
 cd MP-SPDZ
 
+
 test -e logs || mkdir logs
 
 case $protocol in
