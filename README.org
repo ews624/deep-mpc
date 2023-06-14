@@ -15,6 +15,11 @@ Run the following  from this directory to build a Docker container:
 
 =Dockerfile= contains some commented out tests at the end.
 
+###NEXT STEP
+
+Make sure to run ./build-MP-SPDZ.sh
+
+
 ** Running locally
 
 After setting everything up, you can use this script to run the

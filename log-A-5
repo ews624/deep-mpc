@@ -1,0 +1,5 @@
+0 loss: 0.2621 sparse_categorical_accuracy: 0.9193 val_loss: 0.1663 val_sparse_categorical_accuracy: 0.9492 
+1 loss: 0.1080 sparse_categorical_accuracy: 0.9668 val_loss: 0.0950 val_sparse_categorical_accuracy: 0.9703 
+2 loss: 0.0752 sparse_categorical_accuracy: 0.9765 val_loss: 0.1085 val_sparse_categorical_accuracy: 0.9668 
+3 loss: 0.0594 sparse_categorical_accuracy: 0.9812 val_loss: 0.1061 val_sparse_categorical_accuracy: 0.9685 
+4 loss: 0.0436 sparse_categorical_accuracy: 0.9858 val_loss: 0.0863 val_sparse_categorical_accuracy: 0.9749 

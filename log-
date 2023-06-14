@@ -1,0 +1,10 @@
+0 loss: 0.2639 sparse_categorical_accuracy: 0.9189 val_loss: 0.1381 val_sparse_categorical_accuracy: 0.9569 
+1 loss: 0.1082 sparse_categorical_accuracy: 0.9664 val_loss: 0.0931 val_sparse_categorical_accuracy: 0.9706 
+2 loss: 0.0775 sparse_categorical_accuracy: 0.9757 val_loss: 0.0942 val_sparse_categorical_accuracy: 0.9714 
+3 loss: 0.0603 sparse_categorical_accuracy: 0.9815 val_loss: 0.0893 val_sparse_categorical_accuracy: 0.9752 
+4 loss: 0.0444 sparse_categorical_accuracy: 0.9858 val_loss: 0.0783 val_sparse_categorical_accuracy: 0.9774 
+5 loss: 0.0362 sparse_categorical_accuracy: 0.9881 val_loss: 0.0870 val_sparse_categorical_accuracy: 0.9767 
+6 loss: 0.0318 sparse_categorical_accuracy: 0.9892 val_loss: 0.0827 val_sparse_categorical_accuracy: 0.9773 
+7 loss: 0.0261 sparse_categorical_accuracy: 0.9910 val_loss: 0.0933 val_sparse_categorical_accuracy: 0.9755 
+8 loss: 0.0238 sparse_categorical_accuracy: 0.9923 val_loss: 0.0860 val_sparse_categorical_accuracy: 0.9761 
+9 loss: 0.0198 sparse_categorical_accuracy: 0.9934 val_loss: 0.0746 val_sparse_categorical_accuracy: 0.9813 
