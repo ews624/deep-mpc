@@ -1,0 +1,3 @@
+Using security parameter 40
+terminate called after throwing an instance of 'file_error'
+  what():  File Error : Missing 'Programs/Schedules/benchmark_net-A-4.sch'. Did you compile 'benchmark_net-A-4'?
